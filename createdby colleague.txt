@@ -1,1 +1,2 @@
 This is to simulate git pull
+Practice merge conflicts
